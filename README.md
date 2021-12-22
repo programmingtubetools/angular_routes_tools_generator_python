@@ -9,7 +9,7 @@ I created a python script that automatically generates page name and link for me
 
 ---
 
-###Steps
+### Steps
 
 - Open the python script
 - Create a .txt file having page name per line. Provide in tool without ext. name (eg. filename: link.txt -> link)
